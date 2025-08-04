@@ -21,7 +21,7 @@ The `MockWebServer` in package `th.mfu` serves the web server in our system. It 
 5. Study the code in `main()` and tell me What it does?
 ```
  write your through here.
- it was a bit hard to follow
+ -it launche two mock web servers in separate threads on ports 8080 and 8081, waits for the user to press any key then stops both servers and exits the program
 
 
 ```
