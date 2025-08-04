@@ -21,6 +21,9 @@ The `MockWebServer` in package `th.mfu` serves the web server in our system. It 
 5. Study the code in `main()` and tell me What it does?
 ```
  write your through here.
+ it was a bit hard to follow
+
+
 ```
 6. Run the `main()`, point the web browser to `http://localhost:8080` and `http://localhost:8081`
 It should shows a simple HTML with the word such as  `Hello, Web! on Port 8080`.
@@ -53,6 +56,10 @@ Think about the following,  modify the code to experiment it and put your though
 
 ```
   Your thought here...
+  -by  changing the port number in the constructor
+  -by using unique port for each one
+  -by updating the response string in MockWebServer
+  -load testing,parallel testing, different response scenarios
 ```
 **Please push the code back to Github to submit this lab**
 After you push, ensure you have green checkmark on the repository.
